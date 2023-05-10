@@ -11,7 +11,7 @@
 
 - [Handout](docs/Handout - Learn to Code.pdf)
 
-- [Outline](docs/Outline - Learn to Code 2023-05.pdf)
+- [Outline](docs/Outline%20-%20Learn%20to%20Code%202023-05.pdf)
 
 
 ### 🤔 Questions?
