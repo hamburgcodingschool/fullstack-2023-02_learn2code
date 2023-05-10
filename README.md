@@ -7,7 +7,7 @@
 
 ### 📄 Docs
 
-- [Lesson Summary](https://...)
+- [Lesson Summary](./docs/summary.md)
 
 - [Handout](https://...)
 
