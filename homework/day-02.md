@@ -19,7 +19,7 @@ ___\_/________\_/______
 
 #### Hints
 
-1. Jung unccraf vs lbh nqq fcnprf gb lbhe fgevat gb cevag, fhpu nf pbafbyr.ybt("   fcnprq      bhg     ")
+1. Jung unccraf vs lbh nqq fcnprf gb lbhe fgevat gb cevag, fhpu nf `pbafbyr.ybt("   fcnprq      bhg     ")`
 2. Jvgu lbhe xabjyrqtr vg'f rnfvrfg gb fbyir guvf rkrepvfr ol pnyyvat pbafbyr.ybt zhygvcyr gvzrf.
 3. Vg'f cbffvoyr gb qb vg va bar yvar bs pbqr (ohg gevpxl gb trg gur nyvtazrag evtug) ol hfvat fbzrguvat pnyyrq n arjyvar punenpgre.
 4. *Alternative* solution that requires extra knowledge: Qb fbzr erfrnepu nobhg Grzcyngr Yvgrenyf va WninFpevcg.
