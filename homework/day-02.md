@@ -1,9 +1,10 @@
 # Homework Day 2
 
-- [Exercise 1](#exercise-1)
-- [Exercise 2](#exercise-2)
-- [Exercise 3](#exercise-3)
-- [Exercise 4](#exercise-4)
+- [Exercise 1: The Greatest](#exercise-1)
+- [Exercise 2: Beachwalk Hotel 🏖](#exercise-2)
+- [Exercise 3: Currency Converter V2](#exercise-3)
+- [Exercise 4: A Car parking in your terminal](#exercise-4)
+- [Exercise 5: Into the blue, hue](#exercise-5)
 
 ## Exercise 1
 ### The Greatest
@@ -71,7 +72,7 @@ For example the output for 100 USD should be 94.04 EUR (the bank will cut the ex
 2. (guvf vf tvivat njnl n fbyhgvba) Hfr n zrgubq pnyyrq `gbSvkrq`: Sbe rknzcyr `yrg ahzore = 0.1234; pbafbyr.ybt(ahzore.gbSvkrq(2));`.
 
 ## Exercise 4
-### Format text
+### A Car parking in your terminal
 Choose a simple Ascii art from the website https://www.asciiart.eu/.<br />
 Output it to the ___console___.
 ```
@@ -90,9 +91,9 @@ ___\_/________\_/______
 3. Vg'f cbffvoyr gb qb vg va bar yvar bs pbqr (ohg gevpxl gb trg gur nyvtazrag evtug) ol hfvat fbzrguvat pnyyrq n arjyvar punenpgre.
 4. *Alternative* solution that requires extra knowledge: Qb fbzr erfrnepu nobhg Grzcyngr Yvgrenyf va WninFpevcg.
 
-## Exercise 4
-### Conditions and variables in p5js
-Go back to https://editor.p5js.org/
+## Exercise 5
+### Into the blue, hue
+In this exercise you can go back to https://editor.p5js.org/ to apply your new knowledge on conditions and variables.
 
 Starting with this template (you can also find it online [here](https://editor.p5js.org/zormit/sketches/PhF3MNH81)):
 ```JavaScript
