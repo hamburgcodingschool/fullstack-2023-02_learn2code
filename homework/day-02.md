@@ -69,7 +69,7 @@ For example the output for 100 USD should be 94.04 EUR (the bank will cut the ex
 #### Hints
 
 1. Guvf vf n irel pbzzba fpranevb jurer lbh jvyy svaq ybgf bs qvssrerag zrgubqf bayvar. Punyyratr zvtug or gb svaq gur "orfg" bar.
-2. (guvf vf tvivat njnl n fbyhgvba) Hfr n zrgubq pnyyrq `gbSvkrq`: Sbe rknzcyr `yrg ahzore = 0.1234; pbafbyr.ybt(ahzore.gbSvkrq(2));`.
+2. (this is giving away a solution) Hfr n zrgubq pnyyrq `gbSvkrq`: Sbe rknzcyr `yrg ahzore = 0.1234; pbafbyr.ybt(ahzore.gbSvkrq(2));`.
 
 ## Exercise 4
 ### A Car parking in your terminal
