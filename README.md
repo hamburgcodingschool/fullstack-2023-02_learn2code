@@ -3,7 +3,7 @@
 
 ### ✏️ Homework
 
-- Homework will be posted here
+- Homework will be posted [here](homework)
 
 ### 📄 Docs
 
