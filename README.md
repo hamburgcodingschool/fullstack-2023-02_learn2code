@@ -7,11 +7,11 @@
 
 ### 📄 Docs
 
-- [Lesson Summary](./docs/summary.md)
+- [Lesson Summary](docs/summary.md)
 
-- [Handout](https://...)
+- [Handout](docs/Handout - Learn to Code.pdf)
 
-- [Outline](https://...)
+- [Outline](docs/Outline - Learn to Code 2023-05.pdf)
 
 
 ### 🤔 Questions?
