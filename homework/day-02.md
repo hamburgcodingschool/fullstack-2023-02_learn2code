@@ -8,10 +8,10 @@
 ## Exercise 1
 ### The Greatest
 
-#### 1.1
+### 1.1
 Ask the user for two numbers, return the greater one.
 
-#### 1.2
+### 1.2
 Ask the user for three numbers. Return the greatest.
 
 ## Exercise 2
@@ -27,11 +27,12 @@ Breakfast is an extra `10€`<br />
 Continue from the last exercise and ask the user if he would like to include breakfast.<br />
 Print the total cost.
 
-#### Hint
-1. The decision should end up in a boolean variable, such that you can use it in an if statement.
-1. (this is new information!) You could use a comparison operator called `==` which also works for strings.
-2. For example `let answer = "yes"; answer=="yes"`
-3. (lazy approach) you can also use a readline-sync method called `keyInYN`
+#### Hints
+1. Gur qrpvfvba fubhyq raq hc va n obbyrna inevnoyr, fhpu gung lbh pna hfr vg va na vs fgngrzrag.
+1. (guvf vf arj vasbezngvba!) Lbh pbhyq hfr n pbzcnevfba bcrengbe pnyyrq `==` juvpu nyfb jbexf sbe fgevatf.
+2. Sbe rknzcyr `yrg nafjre = "lrf"; nafjre=="lrf"`
+3. (ynml nccebnpu) lbh pna nyfb hfr n ernqyvar-flap zrgubq pnyyrq `xrlVaLA`
+
 
 ### 2.3
 Discount<br />
