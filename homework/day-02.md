@@ -78,3 +78,33 @@ ___\_/________\_/______
 2. Jvgu lbhe xabjyrqtr vg'f rnfvrfg gb fbyir guvf rkrepvfr ol pnyyvat pbafbyr.ybt zhygvcyr gvzrf.
 3. Vg'f cbffvoyr gb qb vg va bar yvar bs pbqr (ohg gevpxl gb trg gur nyvtazrag evtug) ol hfvat fbzrguvat pnyyrq n arjyvar punenpgre.
 4. *Alternative* solution that requires extra knowledge: Qb fbzr erfrnepu nobhg Grzcyngr Yvgrenyf va WninFpevcg.
+
+## Exercise 4
+### Conditions and variables in p5js
+Go back to https://editor.p5js.org/
+
+Starting with this template (you can also find it online [here](https://editor.p5js.org/zormit/sketches/PhF3MNH81)):
+```JavaScript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  fill(7, 85, 153);
+  rectMode(CORNER);
+  rect(0, width / 2, width, height);
+
+  fill(255);
+
+  rectMode(CENTER);
+  rect(mouseX, mouseY, 40);
+}
+```
+
+* Make the rectangle turn into a circle when it's below the "water".
+* Make the fill go from white to yellow dependent on the horizontal (left-right) movement
+
+#### Demonstration
+
+![An ocean where a square turns into a circle](day-02-ex-04-demo.gif)
