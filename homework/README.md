@@ -7,7 +7,7 @@ Note that the exercises are entirely optional. While we might discuss some of th
 ## Hints
 I have left you some [ROT13](https://en.wikipedia.org/wiki/ROT13) obfuscated hints. I recommend you to try the exercise on your own first, if you have no idea where to start, look at the hint. If there are multiple hints, I have ordered them in how much they give away (the first hint is smaller, the next one adds to that, and so on). So use the first one and see if you can solve it, if you're still struggling check the next hint.
 
-In order to make a hint readable you can use a tool like https://rot13.com/. Or you do it by hand with the help of a table. Later you will be able to write your own little tool for this.
+In order to make a hint readable you can use a tool like https://rot13.com/. Or you do it by hand with the help of a table 🤓😜. Later you will be able to write your own little tool for this.
 
 ## Homework by day
 
