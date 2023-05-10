@@ -1,0 +1,44 @@
+<!-- 
+    Feel free to ignore this HTML code (you don't _need_ to understand it).
+    It's NOT part of the L2C course content,
+    it's just used as a tool to demonstrate the different examples.
+-->
+<html>
+
+<head>
+    <script src="library/p5.min.js"></script>
+    <script src="library/load_file.js"></script>
+</head>
+
+<body>
+    <select name="demo" id="demo">
+        <option value="">-- select a demo --</option>
+        <option value="p5/02_basic_canvas.js">Basic Canvas</option>
+        <option value="p5/03_color_background.js">Color Background</option>
+        <option value="p5/04_basic_shapes.js">Basic Shapes</option>
+        <option value="p5/05_order_matters.js">Order Matters</option>
+        <option value="p5/06_colors.js">Colors</option>
+        <option value="p5/07_color_update.js">Slow Color Update</option>
+        <option value="p5/08_order_matters_mouse.js">Order Matters Dynamically</option>
+        <option value="p5/09_rect_mouse.js">Follow Cursor</option>
+        <option value="p5/10_rect_mouse_centered_1.js">Follow Cursor Centered</option>
+        <option value="p5/11_rect_mouse_centered_2.js">Follow Cursor Centered, V2</option>
+        <option value="p5/12_relative_positioning.js">Using Variable</option>
+
+    </select>
+    <pre><code id="code"></code></pre>
+    <main id="main">
+    </main>
+</body>
+<script type="text/javascript">
+    demo.onchange = function () {
+        if (this.value !== "") {
+            loadJS(this.value, false);
+        } else {
+            document.getElementById("main").innerHTML = "";
+            document.getElementById("code").innerHTML = "";
+        }
+    }
+</script>
+
+</html>
