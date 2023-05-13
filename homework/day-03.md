@@ -61,10 +61,10 @@ Then write a program that asks for a score between 0 and 100 and converts that t
 | from | to | grade US | grade DE |
 | ---- | -- | -------- | -------- |
 | 0 | 24 | F | 6 |
-| 25 | 39 | doesn't really exist, but you can put E | 5 |
-| 65 | 49 | D | 4 |
-| 70 | 64 | C | 3 |
-| 85 | 64 | B | 2 |
+| 25 | 64 | doesn't really exist, but you can put E | 5 |
+| 65 | 69 | D | 4 |
+| 70 | 79 | C | 3 |
+| 80 | 89 | B | 2 |
 | 90 | 100 | A | 1 |
 
 Stretch goal: Include some intermediate grades, e.g. B+, D-
