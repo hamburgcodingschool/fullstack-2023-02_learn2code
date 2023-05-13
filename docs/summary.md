@@ -2,6 +2,16 @@
 
 These summaries are not meant to be comprehensive, and it will probably only make sense to you if you have attended the session.
 
+## Day 3 -- 2023-05-12
+* Coditional Logic Extended
+    * `if ... else`, `if ... else if ... else`
+    * Transforming your code into a logical flow-diagram
+        * How to draw multiple if statements in such a diagram?
+* Introduction to Boolean Operators
+    * Binary (`a && b`, `a || b`) vs. Unary (`!a`)
+* More Comparison Operators
+    * Equality (`==`) and Inequality (`!=`)
+
 ## Day 2 -- 2023-05-10
 
 * set up a VSCode developer environment for JavaScript with the help of NodeJS
