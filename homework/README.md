@@ -12,3 +12,4 @@ In order to make a hint readable you can use a tool like https://rot13.com/. Or 
 ## Homework by day
 
 * [Day 2](./day-02.md)
+* [Day 3](./day-03.md)
