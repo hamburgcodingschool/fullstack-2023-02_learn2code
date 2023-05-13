@@ -1,3 +1,4 @@
+// This file belongs to "Day 3 Exercise 8"
 let readlineSync = require("readline-sync");
 console.log("You are standing in front of a dungeon. Are you ready to enter?");
 /*
