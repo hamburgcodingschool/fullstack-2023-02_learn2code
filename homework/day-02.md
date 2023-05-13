@@ -102,14 +102,16 @@ function setup() {
 }
 
 function draw() {
+  // this code prepares the sketch for the exercise
   background(220);
   fill(7, 85, 153);
   rectMode(CORNER);
-  rect(0, width / 2, width, height);
-
-  fill(255);
+  rect(0, height / 2, width, height / 2);
 
   rectMode(CENTER);
+
+  // you only need to change the code from here
+  fill(255);
   rect(mouseX, mouseY, 40);
 }
 ```
