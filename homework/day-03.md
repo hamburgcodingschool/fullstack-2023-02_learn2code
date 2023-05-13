@@ -67,7 +67,7 @@ Then write a program that asks for a score between 0 and 100 and converts that t
 | 80 | 89 | B | 2 |
 | 90 | 100 | A | 1 |
 
-Stretch goal: Include some intermediate grades, e.g. B+, D-
+Stretch goal: Include some intermediate grades, e.g. B+, D- as well.
 
 ## Exercise 7
 
@@ -76,3 +76,4 @@ When the program starts, ask the user which language they want to select, then g
 
 Hint: This is similar to Exercise 6, but you have more freedom (for example which languages do you want?), so it's a bit more tricky.
 
+Stretch Goal: Combine Exercise 6 and 7. First ask for country system to grade in, then ask for a score. Output should be according to the table in that country.
