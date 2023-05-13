@@ -77,3 +77,15 @@ When the program starts, ask the user which language they want to select, then g
 Hint: This is similar to Exercise 6, but you have more freedom (for example which languages do you want?), so it's a bit more tricky.
 
 Stretch Goal: Combine Exercise 6 and 7. First ask for country system to grade in, then ask for a score. Output should be according to the table in that country.
+
+## Exercise 8
+### In a dungeon find the spaghetti monster
+
+This is an open ended creative exercise that shows you that you can already program a little game. I put an example [here](08_dungeon.js), and you can use that however you want to create your own little text adventure game.
+
+Here are some steps how you could start:
+1. Try and run the code without reading it first, to have the "gaming experience".
+2. Probably you need to run it multiple times to play through the game :D
+3. Now read the code and try to understand how it's connected to the gameplay.
+4. Modify the code a little bit and see if it had the desired effect
+5. Add some rooms and options to the dungeon and have fun! :)
