@@ -1,5 +1,7 @@
 // Task: Make this code print "42" by changing alpha and beta.
-let alpha = 1;
+
+// input
+let alpha = 5;
 let beta = 1;
 
 // Do some complicated math :D
@@ -21,5 +23,16 @@ let rho = (pi * omicron) / (xi + nu) - (pi / omicron) * (xi - nu);
 let sigma = rho / pi + rho / omicron - pi / rho + omicron / rho;
 let tau = (sigma * rho) / (pi + omicron) - (sigma / rho) * (pi - omicron);
 let fin = (tau * beta) / tau + rho * (sigma - sigma) + alpha * alpha;
+//
 
+// output
 console.log(fin);
+
+// approaches:
+// * ignore all the math happening, and just try out
+// * change parameter independent of each other
+// * create a table
+// * just write in numbers randomly and get lucky shot
+// * [advanced] go forward and backward at same time
+//   -> looking how input is used and how output is producsed
+// * try to look at some parts of your code as a black box.
