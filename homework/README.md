@@ -12,4 +12,8 @@ In order to make a hint readable you can use a tool like https://rot13.com/. Or 
 ## Homework by day
 
 * [Day 2](./day-02.md)
+    * covers introduction to programming and introduction to conditions
 * [Day 3](./day-03.md)
+    * covers more condition related exercises
+* [Day 4](./day-04.md)
+    * exercises to practice loops
