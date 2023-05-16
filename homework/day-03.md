@@ -1,56 +1,10 @@
-## Exercise 5
-### Boolean Operator Box
-In this exercise you can go back to https://editor.p5js.org/ to apply your knowledge on boolean operators.
+# Homework Day 3
 
-### Exercise 5.1
-Starting with this template (you can also find it online [here](https://editor.p5js.org/zormit/sketches/GTUoGvtE0)):
-```JavaScript
-function setup() {
-  createCanvas(400, 400);
-}
+- [Exercise 6: Calculate grade](#exercise-6)
+- [Exercise 7: Multilingual Greeting](#exercise-7)
+- [Exercise 8: In a dungeon find the spaghetti monster](#exercise-8)
+- [Exercise 9: Boolean Operator Box](#exercise-9)
 
-function draw() {
-  // this code prepares the sketch for the exercise
-  background(220);
-  fill(200, 0, 0);
-  rectMode(CORNER);
-  // Hint: If you want to simplify, replace this with some fixed values first.
-  // (e.g. width / 2 would be 200) and try to put a solution down with fixed values.
-  // Later extend it to variables again.
-  rect(width / 2, height / 2, width / 2, height / 2);
-  rectMode(CENTER);
-
-  // you only need to change the code from here
-  fill(255);
-  rect(mouseX, mouseY, 40);
-}
-```
-
-*Task*: Make the rectangle turn blue (or any color you fancy) when it's inside the red box
-
-### Exercise 5.2
-Now the task stays the same (make rectangle change color inside the red box), but the box moves to the center, like [this](https://editor.p5js.org/zormit/sketches/tzRITvfJa):
-```JavaScript
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  // this code prepares the sketch for the exercise
-  background(220);
-  fill(200, 0, 0);
-  rectMode(CORNER);
-  // Hint: If you want to simplify, replace this with some fixed values first.
-  // (e.g. width / 4 would be 100) and try to put a solution down with fixed values.
-  // Later extend it to variables again.
-  rect(width / 4, height / 4, width / 2, height / 2);
-  rectMode(CENTER);
-
-  // you only need to change the code from here
-  fill(255);
-  rect(mouseX, mouseY, 40);
-}
-```
 
 ## Exercise 6
 ### Calculate grade.
@@ -81,7 +35,7 @@ Stretch Goal: Combine Exercise 6 and 7. First ask for country system to grade in
 ## Exercise 8
 ### In a dungeon find the spaghetti monster
 
-This is an open ended creative exercise that shows you that you can already program a little game. I put an example [here](08_dungeon.js), and you can use that however you want to create your own little text adventure game.
+This is an open ended creative exercise that shows you that you could already program a little game with conditions only. I put an example [here](08_dungeon.js), and you can use that however you want to create your own little text adventure game.
 
 Here are some steps how you could start:
 1. Try and run the code without reading it first, to have the "gaming experience".
@@ -89,3 +43,57 @@ Here are some steps how you could start:
 3. Now read the code and try to understand how it's connected to the gameplay.
 4. Modify the code a little bit and see if it had the desired effect
 5. Add some rooms and options to the dungeon and have fun! :)
+
+## Exercise 9
+### Boolean Operator Box
+In this exercise you can go back to https://editor.p5js.org/ to apply your knowledge on boolean operators.
+
+### Exercise 9.1
+Starting with this template (you can also find it online [here](https://editor.p5js.org/zormit/sketches/GTUoGvtE0)):
+```JavaScript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  // this code prepares the sketch for the exercise
+  background(220);
+  fill(200, 0, 0);
+  rectMode(CORNER);
+  // Hint: If you want to simplify, replace this with some fixed values first.
+  // (e.g. width / 2 would be 200) and try to put a solution down with fixed values.
+  // Later extend it to variables again.
+  rect(width / 2, height / 2, width / 2, height / 2);
+  rectMode(CENTER);
+
+  // you only need to change the code from here
+  fill(255);
+  rect(mouseX, mouseY, 40);
+}
+```
+
+*Task*: Make the rectangle turn blue (or any color you fancy) when it's inside the red box
+
+### Exercise 9.2
+Now the task stays the same (make rectangle change color inside the red box), but the box moves to the center, like [this](https://editor.p5js.org/zormit/sketches/tzRITvfJa):
+```JavaScript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  // this code prepares the sketch for the exercise
+  background(220);
+  fill(200, 0, 0);
+  rectMode(CORNER);
+  // Hint: If you want to simplify, replace this with some fixed values first.
+  // (e.g. width / 4 would be 100) and try to put a solution down with fixed values.
+  // Later extend it to variables again.
+  rect(width / 4, height / 4, width / 2, height / 2);
+  rectMode(CENTER);
+
+  // you only need to change the code from here
+  fill(255);
+  rect(mouseX, mouseY, 40);
+}
+```
