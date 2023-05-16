@@ -70,7 +70,7 @@ Modify the Exercise 10 so that only multiples of three or five are considered in
 ## Exercise 15
 ### Fault tolerant dungeon
 
-This exercise assumes you have looked at Exercise 8, the dungeon. Again it's more on the creative and open ended side if you consider it fun to write little commandline games and are done with all the other exercises. It's an advanced exercise because I don't give a lot of context here, but feel free to reach out to me if you want to know more!
+This exercise assumes you have looked at [Exercise 8](day-03.md#exercise-8), the dungeon. Again it's more on the creative and open ended side if you consider it fun to write little commandline games and are done with all the other exercises. It's an advanced exercise because I don't give a lot of context here, but feel free to reach out to me if you want to know more!
 
 Task: Think about how to extend the dungeon with loops. This is possible in a couple of ways:
 * "Answer loop": If the user does not give you a valid answer, ask again until they give a valid answer
