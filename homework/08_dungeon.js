@@ -54,7 +54,9 @@ if (answer == "y") {
       console.log(
         "You meet the almighty spaghetti monster flying in the middle of the room."
       );
-      console.log("'Welcome to my world!' it says and throws to links at you.");
+      console.log(
+        "'Welcome to my world!' it says and throws two links at you."
+      );
       console.log("https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster");
       console.log("https://en.wikipedia.org/wiki/Spaghetti_code");
     } else {
