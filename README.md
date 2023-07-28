@@ -13,6 +13,11 @@
 
 - [Outline](<docs/Outline - Learn to Code 2023-05.pdf>)
 
+### 📅 Dates:
+
+### 🎯 Location:
+Die Diele
+
 
 ### 🤔 Questions?
 
